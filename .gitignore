@@ -14,7 +14,7 @@
 .env.test.local
 .env.production.local
 
-.pnpm-lock.yaml
+pnpm-lock.yaml
 dist
 
 # IDEs
