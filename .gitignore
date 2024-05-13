@@ -1,0 +1,31 @@
+# Node.js
+/node_modules
+
+# PostgreSQL
+*.sql
+
+# Logs
+*.log
+
+# Dependency directories
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+.pnpm-lock.yaml
+dist
+
+# IDEs
+.idea
+.vscode
+
+# Mac
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Linux
+*.swp
